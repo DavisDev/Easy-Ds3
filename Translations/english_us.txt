@@ -1,0 +1,29 @@
+-- @BaltazaR4
+
+MENU_ACTION_ENABLE = "Enable Ds3 Plugin"
+MENU_ACTION_DISABLE = "Disable Ds3 Plugin"
+MENU_ACTION_EXIT = "Exit"
+
+DS3_STATUS_ENABLE = "Ds3 Enabled"
+DS3_STATUS_DISABLE = "Ds3 Disabled"
+DS3_STATUS_PREVIUS_ENABLE = "Previously Enabled"
+DS3_STATUS_PREVIUS_DISABLE = "Previously Disabled!"
+
+PSV_BT_ADDR = "Ps Vita Bluetooth address: "
+
+MSG_ALERT_RESTART = "The Ps Vita Will restart."
+
+TEXT_INSTRUCCTION = [[
+Instructions:
+
+1.-Install ds3vita plugin.
+
+2.- Download and install SixaxisPairTool app to your PC, this app can change the bluetooth address on your PS3 controller, 
+  - Link: http://0-1.es/EasyDs3Win
+
+3.- On your PC open SixaxisPairTool and pair the PS3 controller, after pairing you have to change the controller  bluetooth address for the Ps Vita Bluetooth address shown above in green.
+
+4.- Now you can unpair the ps3 controller from the PC and with bluetooth enabled in the Ps Vita press the Home button on the controller and after few seconds will be paired to the Ps Vita. Enjoy!
+
+5.- Have fun with your games!
+]]
