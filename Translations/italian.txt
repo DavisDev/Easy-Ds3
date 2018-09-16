@@ -1,0 +1,29 @@
+-- @theheroGAC
+
+MENU_ACTION_ENABLE = "Attiva Ds3 Plugin"
+MENU_ACTION_DISABLE = "Disattiva Ds3 Plugin"
+MENU_ACTION_EXIT = "Esci"
+
+DS3_STATUS_ENABLE = "Ds3 Attivato"
+DS3_STATUS_DISABLE = "Ds3 Disattivato
+DS3_STATUS_PREVIUS_ENABLE = "Abilitato in precedenza"
+DS3_STATUS_PREVIUS_DISABLE = "Precedentemente disabilitato!"
+
+PSV_BT_ADDR = "Indirizzo Bluetooth della PSVITA: "
+
+MSG_ALERT_RESTART = "La Ps Vita sarà riavviata."
+
+TEXT_INSTRUCCTION = [[
+Istruzioni:
+
+1.-Installa ds3vita plugin.
+
+2.- Scarica e installa l'applicazione SixaxisPairTool sul tuo pc, questa app può cambiare l'indirizzo Bluetooth sul controller PS3, 
+  - Link: http://0-1.es/EasyDs3Win
+
+3.- Sul tuo PC apri SixaxisPairTool e abbina il controller PS3, dopo l'abbinamento devi cambiare l'indirizzo bluetooth del controller con l'indirizzo Bluetooth della Ps Vita mostrato sopra in verde.
+
+4.- Ora puoi disaccoppiare il controller ps3 dal PC e con il bluetooth abilitato su Ps Vita premi il pulsante Home sul controller e dopo alcuni secondi verrà abbinato alla Ps Vita!
+
+5.- Divertiti con i tuoi giochi!
+]]
