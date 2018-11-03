@@ -13,6 +13,8 @@ This small application helps you to know the bluetooth address of your psvita, a
 - [up]/[down]: Browse the menu actions.
 - [cross]: Perform the action selected in the menu.
 
+### Changelog 1.01 ###
+- Added italian translation by @TheHeroGAC.
 
 ### Changelog 1.0 ###
 - Initial release.
@@ -30,6 +32,7 @@ The source code is too rudimentary and I hope to improve it :( , I wish to dedic
 ### Credits ###
 - BaltazaR4 for translation in english_us!.
 - Raziel Meile for translation in spanish!.
+- TheHeroGAC for translation in italian!.
 - Xerpi for Awesome plugin ds3vita!.
 
 ### Report bugs ###
