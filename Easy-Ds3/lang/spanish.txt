@@ -1,0 +1,29 @@
+-- @Raziel Meile
+
+MENU_ACTION_ENABLE = "Habilitar Ds3 Plugin"
+MENU_ACTION_DISABLE = "Deshabilitar Ds3 Plugin"
+MENU_ACTION_EXIT = "Salir"
+
+DS3_STATUS_ENABLE = "Ds3 Habilitado"
+DS3_STATUS_DISABLE = "Ds3 Deshabilitado"
+DS3_STATUS_PREVIUS_ENABLE = "Previamente Habilitado"
+DS3_STATUS_PREVIUS_DISABLE = "Previamente Deshabilitado!"
+
+PSV_BT_ADDR = "Ps Vita Direccion Bluetooth: "
+
+MSG_ALERT_RESTART = "Tu consola se reiniciara."
+
+TEXT_INSTRUCCTION = [[
+Instrucciones:
+
+1.-Instalar el plugin ds3vita.
+
+2.- Descargar e instalar el tu PC el programa SixaxisPairTool, sirve para cambiar la direcion bluetooth del control de PS3, 
+  - Link: http://0-1.es/EasyDs3Win
+
+3.- En tu PC abre el SixaxisPairTool y conecta el control de PS3 y cambiamos la direcion bluetooth por la del PSvita, Se muestra aqui arriba en verde.
+
+4.- Habilitamos el bluetooth en la PSvita y presionamos PS en el control de PS3 y en 3 segundos queda listo.
+
+5.- Disfruten de los juegos, att: Davis & Raziel 
+]]
